@@ -1,4 +1,4 @@
-# Rento Documentations
+# Documentations
 
 ## Table of Contents
 - [Database Schema](#database-schema)
